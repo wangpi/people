@@ -187,6 +187,13 @@ AppAsset::register($this);
                                 </li>
 
                                 <li>
+                                    <a href="index.php?r=shai/index">
+                                        <i class="icon-double-angle-right"></i>
+                                        晒单管理
+                                    </a>
+                                </li>
+
+                                <li>
                                     <a href="buttons.html">
                                         <i class="icon-double-angle-right"></i>
                                         十元专区
@@ -338,6 +345,7 @@ AppAsset::register($this);
                                 <a href="#">首页</a>
                             </li>
                             <li class="active">控制台</li>
+
                         </ul><!-- .breadcrumb -->
 
                         <div class="nav-search" id="nav-search">
